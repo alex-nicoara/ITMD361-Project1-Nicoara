@@ -1,0 +1,3 @@
+Hello there,
+
+Welcome to my github repository for ITMD361: Web Development. My projects and assignments for this class will be on the repository.
